@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+你好这里是墨尘，欢迎来到我的杂谈博客！！！
 
-![Image of fast.ai logo](images/logo.png)
+这里记录着我感兴趣的、正在用着的东西
 
-## This is a title
+## 我的博客：
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
